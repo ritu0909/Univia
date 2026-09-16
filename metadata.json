@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Univia",
+  "description": "Campus community intelligence platform for IGDTUW first-year students with AI Nova assistant, timetable conflict detection, society portals, and announcement stream parsing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
